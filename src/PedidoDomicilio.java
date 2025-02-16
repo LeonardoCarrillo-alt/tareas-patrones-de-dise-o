@@ -1,4 +1,4 @@
-public class PedidoDomicilio implements Pedido{
+public class PedidoDomicilio implements Pedido {
     private Repartidor repartidor;
     public PedidoDomicilio (Repartidor repartidor){
         this.repartidor=repartidor;
